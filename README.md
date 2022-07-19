@@ -78,8 +78,6 @@ Happy Learning :)
 
 ## Syllabus
 
-> **Note**: This is preliminary and may change
-
 ### [Week 1: Introduction & Prerequisites](week_1_basics_n_setup)
 
 * Big Picture
